@@ -22,7 +22,7 @@ To view the website on your local machine, simply clone this repository and open
 
 ## Live Demo
 You can view a live version of the website here:
-[https://github.com/thekingkoko-sketch/Project_Chauhan/](https://github.com/thekingkoko-sketch/Project_Chauhan/)
+[https://github.com/thekingkoko-sketch/Project_Chauhan/]((https://mohak-bhardj.github.io/Project_Chauhan/))
 
 ## Internship Project
 This project was completed as a demonstration of front-end web development skills during an internship. It highlights a practical understanding of modern web design principles and project management.
